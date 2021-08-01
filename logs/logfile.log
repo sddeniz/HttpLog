@@ -1,0 +1,19 @@
+{
+                "level": "ERROR",
+                "time": "2021-08-01 16:42:08,455"
+                "traceId": "",
+                "spanId": "",
+                "thread": "qtp2123366372-60",
+                "class": "o.h.engine.jdbc.spi.SqlExceptionHelper",
+                "message": "ORA-00001: unique constraint (TOPUP.HTTP_BODY_) violated
+"
+                }{
+                "level": "ERROR",
+                "time": "2021-08-01 16:43:59,500"
+                "traceId": "",
+                "spanId": "",
+                "thread": "qtp753657154-61",
+                "class": "o.h.engine.jdbc.spi.SqlExceptionHelper",
+                "message": "ORA-00001: unique constraint (TOPUP.HTTP_BODY_) violated
+"
+                }
